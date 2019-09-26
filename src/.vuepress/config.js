@@ -1,6 +1,7 @@
 module.exports = {
   title: '前端技术文档库',
   description: '前端不规范,运营两行泪',
+  base: '/fex-style/',
   port: 8080,
   themeConfig: {
     activeHeaderLinks: false, // 默认值：true
