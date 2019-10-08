@@ -1,3 +1,7 @@
+## [1.0.9](https://github.com/leesren/fex-style/compare/v1.0.8...v1.0.9) (2019-10-08)
+
+
+
 ## 1.0.5 (2019-10-08)
 
 
