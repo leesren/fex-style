@@ -80,7 +80,7 @@ module.exports = {
           title: '特殊规范',
           collapsable: true,
           path: 'spec',
-          children: ['spec-concheck']
+          children: ['spec-concheck', 'spec-version']
         },
         {
           title: '扩展阅读',

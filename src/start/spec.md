@@ -5,3 +5,4 @@
 以下的业务规范如果和通用规范有冲突，以对应特殊业务规范为准。
 
 - [内容检查](/start/spec-concheck.html)
+- [版本管理](/start/spec-version.html)
