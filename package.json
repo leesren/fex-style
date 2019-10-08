@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vuepress dev src",
     "start": "npm run dev",
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md",
     "build": "vuepress build src && rm -rf docs && mv src/.vuepress/dist docs"
   },
   "keywords": [],
