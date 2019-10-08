@@ -3,6 +3,7 @@
 ## git 提交规范
 
 - [git commit 提交规范](https://github.com/commitizen/cz-cli)
+- [约定式提交-一种用以给提交信息增加人机可读的信息的规范](https://www.conventionalcommits.org/zh-cn/v1.0.0-beta.4/)
 
 ## 链接入口
 
